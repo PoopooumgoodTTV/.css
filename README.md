@@ -1,7 +1,7 @@
 ###### My css!
 **@PoopooumgoodTTV**
 CSS AND SETINGS of 3/25/24
-[Css](https://poopooumgoodttv.github.io/.css/)
+[Css](https://poopooumgoodttv.github.io/TTV.css/)
 [Setings](https://raw.githubusercontent.com/PoopooumgoodTTV/.css/main/message.txt)
 [Discord](https://discord.gg/YDkUpGXb9G)
 [Info](guns.lol/PoopooumgoodTTV)
