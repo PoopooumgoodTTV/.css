@@ -1,4 +1,4 @@
-![channels4_profile](https://github.com/PoopooumgoodTTV/.css/assets/173562061/41828ac1-29c3-4a09-a6e2-277b41c329c0)
+![TTV.PNG](https://github.com/PoopooumgoodTTV/.css/assets/173562061/41828ac1-29c3-4a09-a6e2-277b41c329c0)
 ###### My css!
 **@PoopooumgoodTTV**
 CSS AND SETINGS of 3/25/24
@@ -9,3 +9,4 @@ CSS AND SETINGS of 3/25/24
 [Youtube](https://Youtube.com/@PoopooumgoodTTV-Official)
 [Discord bot](https://discord.com/oauth2/authorize?client_id=1194770094715310193)
 For [kirka.io](https://kirka.io)
+images comeing soon!
