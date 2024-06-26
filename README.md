@@ -17,4 +17,4 @@ New background
 
 More up dates comeing soon!
 ...
-Note @PoopooumgoodTTV not affiliated with [kirka.io](https://kirka.io in anyway!)
+Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io) in anyway!
