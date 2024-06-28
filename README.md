@@ -19,6 +19,7 @@ More up dates comeing soon!
 ![inventory_1](https://github.com/PoopooumgoodTTV/.css/assets/173562061/a3e20b68-0f79-4ba6-b1af-de92186bba9e)
 ![inventory_2](https://github.com/PoopooumgoodTTV/.css/assets/173562061/9bd64493-bc4d-4df0-a779-0c0972b4cd7c)
 ![profile](https://github.com/PoopooumgoodTTV/.css/assets/173562061/007b60ca-6a63-4d53-b850-87d9670c98b8)
-
+● Skins Count:     755 (226 unique)
+● Inventory Value: 4.91M
 ...
 Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io)... in anyway!
