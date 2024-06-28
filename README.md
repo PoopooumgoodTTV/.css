@@ -16,7 +16,7 @@ New background
 ![image](https://github.com/PoopooumgoodTTV/.css/assets/173562061/1328feb1-95d8-498d-8360-450d20e56a74)
 
 More up dates comeing soon!
-![inventory_1](https://github.com/PoopooumgoodTTV/.css/assets/173562061/a3e20b68-0f79-4ba6-b1af-de92186bba9e)![profile](https://github.com/PoopooumgoodTTV/.css/assets/173562061/007b60ca-6a63-4d53-b850-87d9670c98b8)
+![inventory_1](https://github.com/PoopooumgoodTTV/.css/assets/173562061/a3e20b68-0f79-4ba6-b1af-de92186bba9e)![profile](https://github.com/PoopooumgoodTTV/.css/assets/173562061/007b60ca-6a63-4d53-b850-87d9670c98b8
 
 ...
 Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io) in anyway!
