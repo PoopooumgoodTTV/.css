@@ -10,9 +10,6 @@ CSS AND SETINGS of 3/25/24
 For [kirka.io](https://kirka.io)
 images comeing soon!
 Update old background [blank](none)
-How to add  css [add this](https://github.com/irrvlo/juice-client/releases/download/v1.0.8/juice-client-setup-win-1.0.8.exe)
-
-
 | **Key** | **Action**               |
 |---------|--------------------------|
 | Right shift |Open thing to add css |
@@ -27,4 +24,5 @@ More up dates comeing soon!
 ● Skins Count:     755 (226 unique)
 ● Inventory Value: 4.91M
 ...
+How to add  css [add this](https://github.com/irrvlo/juice-client/releases/download/v1.0.8/juice-client-setup-win-1.0.8.exe)
 Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io)... in anyway!
