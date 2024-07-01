@@ -24,4 +24,4 @@ More up dates comeing soon!
 ...
 How to add  css [add this](https://github.com/irrvlo/juice-client/releases/download/v1.0.8/juice-client-setup-win-1.0.8.exe)
 Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io)... in anyway! 
-# Note in need of a Bot dev if u want to hellp me join my discord server and dm mod to dm me!
+# Note in need of a Bot dev if u want to help me join my discord server and dm mod to dm me!
