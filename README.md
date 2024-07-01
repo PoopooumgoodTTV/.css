@@ -3,16 +3,15 @@
 CSS AND SETINGS of 3/25/24
 [Css](https://poopooumgoodttv.github.io/TTV.css/)
 [Setings](https://raw.githubusercontent.com/PoopooumgoodTTV/TTV.css/main/message.txt)
-[Discord](https://discord.gg/YDkUpGXb9G)
+[![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)](https://discord.gg/YDkUpGXb9G) 
+# note not 3543 online at all
 [Info](guns.lol/PoopooumgoodTTV)
 [Youtube](https://Youtube.com/@PoopooumgoodTTV-Official)
 [Discord bot](https://discord.com/oauth2/authorize?client_id=1194770094715310193)
 For [kirka.io](https://kirka.io)
 images comeing soon!
 Update old background [blank](none)
-| **Key** | **Action**               |
-|---------|--------------------------|
-| Right shift |Open thing to add css |
+
 New background 
 ![tumblr_24781a5ef4c6fc6ce7dcc7c2f1d0f458_90f17002_500](https://github.com/PoopooumgoodTTV/.css/assets/173562061/e37234a8-cdcb-4101-a52f-81a8e2d16914)
 ![image](https://github.com/PoopooumgoodTTV/.css/assets/173562061/1328feb1-95d8-498d-8360-450d20e56a74)
@@ -26,3 +25,9 @@ More up dates comeing soon!
 ...
 How to add  css [add this](https://github.com/irrvlo/juice-client/releases/download/v1.0.8/juice-client-setup-win-1.0.8.exe)
 Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io)... in anyway!
+
+
+
+
+
+
