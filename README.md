@@ -2,7 +2,7 @@
 **@PoopooumgoodTTV**
 ![TTV.PNG](https://github.com/PoopooumgoodTTV/.css/assets/173562061/41828ac1-29c3-4a09-a6e2-277b41c329c0)
 CSS AND SETINGS of 3/25/24
-[Css](https://poopooumgoodttv.github.io/TTV.css/)
+[Css](https://github.com/PoopooumgoodTTV/TTV.css)
 [Setings](https://raw.githubusercontent.com/PoopooumgoodTTV/TTV.css/main/message.txt)
 [![Discord Server](https://64.media.tumblr.com/21751dfbc4597891ad87752abcb7f8be/4d3abebbe32d79ed-1b/s250x400/cc7945f0c3a344539654192c2901263a2a9dd2a7.pnj)](https://discord.gg/YDkUpGXb9G)
 [Info](guns.lol/PoopooumgoodTTV)
