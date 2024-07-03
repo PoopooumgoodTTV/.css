@@ -2,7 +2,7 @@
 **@PoopooumgoodTTV**
 ![TTV.PNG](https://github.com/PoopooumgoodTTV/.css/assets/173562061/41828ac1-29c3-4a09-a6e2-277b41c329c0)
 CSS AND SETINGS of 3/25/24
-[Css](https://github.com/PoopooumgoodTTV/TTV.css)
+[Css](https://cdn.discordapp.com/attachments/1204891829363933264/1257887371991580803/Poopooumgood.css?ex=66860a67&is=6684b8e7&hm=7a4705b9afb7240bc3bdcc5fe0da33d3607a4a933416ec64304247b19c287210&)
 [Setings](https://raw.githubusercontent.com/PoopooumgoodTTV/TTV.css/main/message.txt)
 [![Discord Server](https://64.media.tumblr.com/21751dfbc4597891ad87752abcb7f8be/4d3abebbe32d79ed-1b/s250x400/cc7945f0c3a344539654192c2901263a2a9dd2a7.pnj)](https://discord.gg/YDkUpGXb9G)
 [Info](guns.lol/PoopooumgoodTTV)
@@ -25,3 +25,5 @@ More up dates comeing soon!
 How to add  css [add this](https://github.com/irrvlo/juice-client/releases/download/v1.0.8/juice-client-setup-win-1.0.8.exe)
 Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io)... in anyway! 
 # Note in need of a Bot dev if u want to help me join my discord server and dm mod to dm me!
+Copy css 
+# https://cdn.discordapp.com/attachments/1204891829363933264/1257887371991580803/Poopooumgood.css?ex=66860a67&is=6684b8e7&hm=7a4705b9afb7240bc3bdcc5fe0da33d3607a4a933416ec64304247b19c287210&
