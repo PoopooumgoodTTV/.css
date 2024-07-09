@@ -27,4 +27,4 @@ Note @PoopooumgoodTTV Is NOT affiliated with [kirka.io](https://kirka.io)... in 
 # Note in need of a Bot dev if u want to help me join my discord server and dm mod to dm me!
 Copy css 
 # https://cdn.discordapp.com/attachments/1204891829363933264/1257887371991580803/Poopooumgood.css?ex=66860a67&is=6684b8e7&hm=7a4705b9afb7240bc3bdcc5fe0da33d3607a4a933416ec64304247b19c287210&
-![none](https://64.media.tumblr.com/9f651ee7b64bb9a51d15d5969cfd9196/e04379b7c1e78d53-54/s400x600/527f8813e2300b2c9ddfe48aba5d397e7a7b90a6.webp)
+![none](https://64.media.tumblr.com/a6eeaca69a42f4b1ccf630df349d972c/3e2f377ece436387-4c/s400x600/8e2f42e2ef9f41423cb36508564a353e6d7bb79f.webp)
